@@ -1,0 +1,192 @@
+{
+  "empresas":[
+    {
+      "name":"AAA",
+      "campeones":[
+        {
+          "luchador":"Rey Wagner",
+          "nacimiento":1965,
+          "debut":1986,
+          "nacionalidad":"Mexicana",
+          "titulo":"Megacampeonato de AAA",
+          "imagen":"https://vignette.wikia.nocookie.net/prowrestling/images/8/8c/ReyWagner.jpg"
+        },
+        {
+          "luchador":"El Hijo del Fantasma",
+          "nacimiento":1984,
+          "debut":2000,
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeonato Latinoamericano de AAA",
+          "imagen":"http://www.luchawiki.com/images/thumb/d/d3/El-Hijo-del-Fantasma_B.jpg/275px-El-Hijo-del-Fantasma_B.jpg"
+        },
+        {
+          "luchador":"Australian Suicide",
+          "nacimiento":1992,
+          "debut":2003,
+          "nacionalidad":"Australiano",
+          "titulo":"Campeonato Mundial de Peso Crucero de AAA",
+          "imagen":"https://i.pinimg.com/564x/42/02/fa/4202fa9bfcefa467f5de953dcd718018--wrestling.jpg"
+        },
+        {
+          "luchador":"Faby Apache",
+          "nacimiento":1980,
+          "debut":1998,
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeonato Reina de Reinas de AAA",
+          "imagen":"https://cdn.oem.com.mx/elheraldodechiapas/2017/05/LUCHA-F2-3.jpg"
+        },
+        {
+          "luchador":"Cuervo y Scoria",
+          "nacimiento": "s/a",
+          "debut": "s/a",
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeonato Mundial en Parejas de la AAA",
+          "imagen":"http://www.luchawiki.com/images/thumb/d/d6/Cuev_Scor_2017.jpg/200px-Cuev_Scor_2017.jpg"
+        }
+      ]
+    },
+    {
+      "name":"CMLL",
+      "campeones":[
+        {
+          "luchador":"Marco Corleone",
+          "nacimiento":1977,
+          "debut":1999,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeón Mundial de Peso Completo",
+          "imagen":"http://1.bp.blogspot.com/_U3D7veGHKok/SrWTOC_pj0I/AAAAAAAABHU/utp7TZU_DmA/s400/IMG_0220.jpg"
+        },
+        {
+          "luchador":"Niebla Roja",
+          "nacimiento":1986,
+          "debut":2008,
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeón Mundial de Peso Semicompleto",
+          "imagen":"http://www.luchawiki.com/images/thumb/b/b2/NieblaRojaUnmasked.jpg/275px-NieblaRojaUnmasked.jpg"
+        },
+        {
+          "luchador":"Cuatrero",
+          "nacimiento":1996,
+          "debut":2010,
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeón Mundial de Peso Medio",
+          "imagen":"http://www.luchawiki.com/images/thumb/8/89/Cuatrero_2016.jpg/275px-Cuatrero_2016.jpg"
+        },
+        {
+          "luchador":"Mephisto",
+          "nacimiento":1968,
+          "debut":1988,
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeón Mundial de Peso Welter",
+          "imagen":"http://cmll.com/wp-content/uploads/2015/04/mephisto.jpg"
+        },
+        {
+          "luchador":"Dragon Lee",
+          "nacimiento": "1995",
+          "debut": "2014",
+          "nacionalidad":"Mexicana",
+          "titulo":"Campeón Mundial de Peso Ligero",
+          "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Lee_II.jpg/220px-Dragon_Lee_II.jpg"
+        }
+      ]
+    },
+    {
+      "name":"WWE",
+      "campeones":[
+        {
+          "luchador":"Brock Lesnar",
+          "nacimiento":1977,
+          "debut":2000,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeón Universal",
+          "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Brock_Lesnar_in_March_2015.jpg/1200px-Brock_Lesnar_in_March_2015.jpg"
+        },
+        {
+          "luchador":"AJ Styles",
+          "nacimiento":1977,
+          "debut":1998,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeón WWE",
+          "imagen":"http://espanol.wwe.com/f/styles/gallery_img_s/public/all/2016/12/AJ_Styles_stat--37783c9a172ebc7416045d07b87b8b26.png"
+        },
+        {
+          "luchador":"Alexa Bliss",
+          "nacimiento":1991,
+          "debut":2013,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeona Femenina de Raw",
+          "imagen":"https://www.gannett-cdn.com/-mm-/d2625230c2b6023634b042d83495905d3720b2ad/c=0-0-1817-2423&r=537&c=0-0-534-712/local/-/media/2017/11/30/NJGroup/AsburyPark/636476352969310303-alexa2.jpg"
+        },
+        {
+          "luchador":"Charlotte Flair",
+          "nacimiento":1998,
+          "debut":2013,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeona Femenina de SmackDown",
+          "imagen":"http://static.tvtropes.org/pmwiki/pub/images/img_6373.PNG"
+        },
+        {
+          "luchador":"The Miz",
+          "nacimiento":1980,
+          "debut":2003,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeón Intercontinental",
+          "imagen":"http://www.topcelebsjackets.com/wp-content/uploads/2017/02/Elegant-Mike-The-Miz-Mizanin-Coat-9-570x708.png"
+        },
+        {
+          "luchador":"Bobby Roode",
+          "nacimiento":1977,
+          "debut":1998,
+          "nacionalidad":"Estadounidense",
+          "titulo":"Campeón de los Estados Unidos",
+          "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bobby_Roode_at_HoH_14.jpg/245px-Bobby_Roode_at_HoH_14.jpg"
+        }
+      ]
+    },
+    {
+      "name":"NJPW",
+      "campeones":[
+        {
+          "luchador":"Kazuchika Okada",
+          "nacimiento":1987,
+          "debut":2004,
+          "nacionalidad":"Japonesa",
+          "titulo":"Campeón IWGP Peso Pesado",
+          "imagen":"http://g1climax2017.com/wp-content/uploads/2017/07/kazuchika-okada.jpg"
+        },
+        {
+          "luchador":"Jay White",
+          "nacimiento":1992,
+          "debut":2013,
+          "nacionalidad":"Neozelandés",
+          "titulo":"Campeón IWGP de los Estados Unidos",
+          "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jay_White_%28Switchbrade%29.jpg/245px-Jay_White_%28Switchbrade%29.jpg"
+        },
+        {
+          "luchador":"Minoru Suzuki",
+          "nacimiento":1968,
+          "debut":1988,
+          "nacionalidad":"Japonesa",
+          "titulo":"Campeón IWGP Intercontinental",
+          "imagen":"https://www.njpw1972.com/wp-content/uploads/2017/02/suzuki_en-352x528.png"
+        },
+        {
+          "luchador":"Will Ospreay",
+          "nacimiento":1993,
+          "debut":2012,
+          "nacionalidad":"Inglés",
+          "titulo":"Campeón IWGP de Peso Junior",
+          "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Will_Ospreay_2016.jpg/220px-Will_Ospreay_2016.jpg"
+        },
+        {
+          "luchador":"Hirooki Goto",
+          "nacimiento":1979,
+          "debut":2003,
+          "nacionalidad":"Japonesa",
+          "titulo":"Campeón NEVER Openweight",
+          "imagen":"https://www.njpw1972.com/wp-content/uploads/2017/02/goto_en-352x528.png"
+        }
+      ]
+    }
+  ]
+}
